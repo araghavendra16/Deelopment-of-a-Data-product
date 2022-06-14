@@ -13,6 +13,9 @@ This file is already input in POWERBI file (dashboard130622.pbix)
 
 The project is clearly explained in Development of Data products_project_document (1).pdf 
 
+In the dashboard, I have created some new variables (it's called Measure in POWERBI). I use these measures extensively in visualizations. 
+Since it's a timeseries dataset, I print the latest date's confirmed column as Total Confirmed. It's of simple logic. Same for deaths. 
+
 If its not working, please write back to me immediately. 
 
 
