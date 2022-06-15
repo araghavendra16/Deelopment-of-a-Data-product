@@ -2,10 +2,12 @@
 
 instructions: 
 Run 1.py 
+This script dowmloads data sources necessary for the project.
 It should download 4 csv files into your folder: 
 a. time_series_covid19_recovered_global b. time_series_covid19_deaths_global c. time_series_covid19_confirmed_global d. OxCGRT_latest.csv
 
 Run 2.py
+This script prepares (clean, merge 2 different csv's) the data for dashboard visualizations. 
 Please adjust the file location of csv files. 
 The output is view1.csv. 
 
